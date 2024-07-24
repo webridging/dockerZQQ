@@ -13,7 +13,8 @@ ls
 mv wrangler.toml.sample wrangler.toml
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 source ~/.nvm/nvm.sh
-nvm install 14
+nvm install 17
+nvm use 17
 node -v
 npm -v
 npx -v

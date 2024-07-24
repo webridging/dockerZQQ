@@ -14,12 +14,12 @@ mv wrangler.toml.sample wrangler.toml
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 source ~/.nvm/nvm.sh
 . /gcc8_3_1
-nvm install 21
-nvm use 21
+nvm install 17
+nvm use 17
 node -v
 npm -v
 npx -v
-npm install -g pnpm
+curl -fsSL https://get.pnpm.io/install.sh | sh -
 npx wrangler whoami
 npx wrangler login
 ```

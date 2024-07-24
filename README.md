@@ -18,6 +18,7 @@ nvm use 17
 node -v
 npm -v
 npx -v
+npm install -g pnpm
 npx wrangler whoami
 npx wrangler login
 ```
@@ -28,3 +29,4 @@ npx wrangler login
 ![image](https://github.com/user-attachments/assets/bc172e08-8f6f-432c-a7cc-bb94d53841af)
 ![image](https://github.com/user-attachments/assets/b4493368-245b-4dd2-8d06-519ab51485ff)
 注册cloudflare账户：https://dash.cloudflare.com/sign-up
+注册完了命令行登录验证npx wrangler login

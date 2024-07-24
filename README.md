@@ -6,3 +6,5 @@ Hammal 是运行于 cloudflare workers 上的 Docker 镜像加速工具，用于
 # 方法步骤
 1.复制项目到自己电脑
 git clone https://github.com/webridging/dockerZQQ.git
+![image](https://github.com/user-attachments/assets/a51d232e-638a-4454-9513-3a1e1997f3bf)
+

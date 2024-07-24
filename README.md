@@ -16,6 +16,7 @@ source ~/.nvm/nvm.sh
 nvm install 14
 node -v
 npm -v
+npx -v
 ```
 ![image](https://github.com/user-attachments/assets/a51d232e-638a-4454-9513-3a1e1997f3bf)
 ![image](https://github.com/user-attachments/assets/b7a5448c-1801-42b3-9da6-fa0057e55535)
